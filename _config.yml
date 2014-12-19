@@ -1,7 +1,9 @@
 # Site settings
 title: Kaunas JS
 email: kaunasjs@gmail.com
-description: > # none
+description: > #
+  Norim suburti JavaScript programuojančius žmones Kaune. Susitikim
+  kartą į mėnesį pasidalinti žiniom ir įspūdžiais.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kaunasjs.lt" # the base hostname & protocol for your site
 twitter_username: kaunasjs
