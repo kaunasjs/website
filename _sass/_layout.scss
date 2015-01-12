@@ -234,3 +234,27 @@
         }
     }
 }
+
+.spotlight {
+    border: 1px solid #4497ba;
+    background: #ecf9ff;
+    padding: 25px;
+    margin-bottom: 40px;
+}
+
+.rsvp {
+    display: inline-block;
+    border-radius: 6px;
+    padding: 14px 20px;
+    font-size: 18px;
+    border: none;
+    color: #FFF !important;
+    background: #2b86b7;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+.rsvp:hover {
+    text-decoration: none;
+    background: #3790be;
+}

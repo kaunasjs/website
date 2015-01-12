@@ -4,19 +4,33 @@ layout: default
 
 <div class="home">
 
+  <div class="spotlight">
+
+    <h1 class="page-heading"><b>Artimiausias susitikimas</b></h1>
+
+    <h2>{{ site.posts[0].title }} <span class="post-meta">{{ site.posts[0].date | date: "%Y-%m-%d" }}</span></h2>
+
+    <a class="rsvp" href="{{ site.posts[0].event_url }}">Užsiregistruoti EventBrite</a>
+
+    <div>{{ site.posts[0].content }}</div>
+
+  </div>
+
   <h1 class="page-heading">Buvę susitikimai</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <h2>
-          {{ post.title }}
-          <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
-        </h2>
-        <div>
+      {% unless forloop.index == 1 %}
+        <li>
+          <h2>
+            {{ post.title }}
+            <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+          </h2>
+          <div>
             {{ post.content }}
-        </div>
-      </li>
+          </div>
+        </li>
+      {% endunless %}
     {% endfor %}
   </ul>
 
