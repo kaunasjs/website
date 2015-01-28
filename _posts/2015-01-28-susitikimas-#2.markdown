@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Susitikimas #2"
-date:   2015-01-28 18:30:00 +02:00
+date:   2015-01-28 18:30:00
 venue: BLC, K.Donelaičio g. 62 / V.Putvinskio g. 53
 event_url: https://www.eventbrite.com/e/kaunas-js-meetup-2-tickets-15269923753
 categories: jekyll update
