@@ -7,8 +7,10 @@ layout: default
   <div class="spotlight">
 
     <h1 class="page-heading"><b>Artimiausias susitikimas</b></h1>
+    <h2 class="upcoming-title">{{ site.posts[0].title }}</h2>
 
-    <h2>{{ site.posts[0].title }} <span class="post-meta">{{ site.posts[0].date | date: "%Y-%m-%d" }}</span></h2>
+    <div class="upcoming-date"><span class="post-meta">{{ site.posts[0].date | date: "%Y-%m-%d %H:%M" }}</span></div>
+    <div class="upcoming-venue post-meta">{{ site.posts[0].venue }}</div>
 
     <a class="rsvp" href="{{ site.posts[0].event_url }}">Užsiregistruoti EventBrite</a>
 
