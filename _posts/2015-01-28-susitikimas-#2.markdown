@@ -8,7 +8,7 @@ categories: jekyll update
 ---
 ## Pranešėjai:
 
- * Darius Laurinčikas [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/darxx) - How Not to Kill a Baby
+ * Darius Laurinčikas [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/darxx) - [How Not to Kill a Baby](http://slides.com/dariuslaurincikas/how-not-to-kill-a-baby#/)
  * Darius Ašeriškis [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/pub/darius-ašeriškis/53/553/232) – So You Want to Be a Great Front-End Developer?
 
 *Afterparty @ [Ostago](https://www.facebook.com/ostagoLT)*
