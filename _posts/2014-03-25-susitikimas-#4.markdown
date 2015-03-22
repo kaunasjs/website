@@ -8,10 +8,10 @@ categories: jekyll update
 ---
 ## Pranešėjai:
 
-  * TBA
+  * Nikas Praninskas [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/profile/view?id=180492011) - Web Components: the near future of Web development
 
-*Afterparty @ [Ostago](https://www.facebook.com/ostagoLT)*
+  Afterparty @ [Ostago](https://www.facebook.com/ostagoLT)
 
-## Remėjai:
+## Rėmėjai:
 
- * TBA
+  * ![Adform](img/adform-logo.jpg)
