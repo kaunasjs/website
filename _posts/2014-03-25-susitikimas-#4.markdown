@@ -9,6 +9,7 @@ categories: jekyll update
 ## Pranešėjai:
 
   * Nikas Praninskas [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/profile/view?id=180492011) - Web Components: the near future of Web development
+  * Alius Petraška [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/aliuspetraska) – I knew there had to be another way to build mobile apps!
 
   Afterparty @ [Ostago](https://www.facebook.com/ostagoLT)
 
