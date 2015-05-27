@@ -13,7 +13,7 @@ categories: jekyll update
   Rekomenduojama atsinešti savo kompiuterius.  
   Vietų kiekis ribotas. Registracija Eventbrite būtina.  
 
-  Afterparty @ TBA
+  Reikalingą kodą galite rasti [github repozitorijoje.](https://github.com/kaunasjs/workshop-1)
 
 ## Rėmėjai:
 
