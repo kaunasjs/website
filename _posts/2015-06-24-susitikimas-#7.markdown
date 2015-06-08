@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Susitikimas #7"
-date:   2015-06-24 18:30:00
+date:   2015-07-01 18:30:00
 venue: BLC, K.Donelaičio g. 62 / V.Putvinskio g. 53
 event_url: https://www.eventbrite.com/e/kaunas-js-meetup-7-tickets-17296727979
 categories: jekyll update
