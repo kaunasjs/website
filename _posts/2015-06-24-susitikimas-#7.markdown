@@ -9,7 +9,7 @@ categories: jekyll update
 ## Pranešėjai:
 
   * Donatas Žukauskas [![LinkedIn](img/icon-linkedin.png)](https://lt.linkedin.com/pub/donatas-%C5%BEukauskas/b6/690/488) - Meteor - All in One
-  * ‎Mindaugas Murauskas [![LinkedIn](img/icon-linkedin.png)](https://lt.linkedin.com/in/mindaugasmurauskas) – TBA
+  * ‎Mindaugas Murauskas [![LinkedIn](img/icon-linkedin.png)](https://lt.linkedin.com/in/mindaugasmurauskas) – May the Tools be with you
 
   Afterparty @ TBA
 
