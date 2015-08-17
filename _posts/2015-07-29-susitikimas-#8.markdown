@@ -8,8 +8,8 @@ categories: jekyll update
 ---
 ## Pranešėjai:
 
-  * Gediminas Dovidaitis [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/profile/view?id=167865211) - Angular 2
-  * ‎Mantas Kaveckas [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/profile/view?id=297309362) – Do you even React?
+  * Gediminas Dovidaitis [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/profile/view?id=167865211) - [Angular 2](https://www.slideshare.net/secret/MDHTyU5sYYqKGG)
+  * ‎Mantas Kaveckas [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/profile/view?id=297309362) – [Do you even React?](http://slides.com/mantaskaveckas/do-you-even-react#/)
 
   Afterparty @ Republic
 
