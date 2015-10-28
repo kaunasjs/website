@@ -9,5 +9,8 @@ url: "http://kaunasjs.lt" # the base hostname & protocol for your site
 twitter_username: kaunasjs
 github_username:  kaunasjs
 
+# Publish posts with a future date
+future: true
+
 # Build settings
 markdown: kramdown
