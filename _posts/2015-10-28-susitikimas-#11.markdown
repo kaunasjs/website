@@ -7,7 +7,7 @@ event_url: https://www.eventbrite.com/e/kaunas-js-meetup-11-tickets-18951756213
 categories: jekyll update
 ---
 ## Pranešėjai:
-  * Dominykas Blyžė [![LinkedIn](img/icon-linkedin.png)](https://ie.linkedin.com/in/dominykas) - The sorry state of Javascript error handling
+  * Dominykas Blyžė [![LinkedIn](img/icon-linkedin.png)](https://ie.linkedin.com/in/dominykas) - [The sorry state of Javascript error handling](https://speakerdeck.com/dominykas/the-sorry-state-of-javascript-error-handling)
   * Tomas Miliauskas [![LinkedIn](img/icon-linkedin.png)](https://lt.linkedin.com/pub/tomas-miliauskas/27/71a/47a) - Testing routines and Angular views
 
   Afterparty @ Republic
