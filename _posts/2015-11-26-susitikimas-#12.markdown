@@ -9,7 +9,7 @@ categories: jekyll update
 ## Pranešėjai:
   * Vytautas Pranskūnas [![LinkedIn](img/icon-linkedin.png)](https://lt.linkedin.com/pub/vytautas-pransk%C5%ABnas/8/3b7/51) - AngularJS goes large: 10 things / tips to think of when building large scale single page apps
  
-  Afterparty TBA
+  Afterparty @ Republic
 
 ## Rėmėjai:
 
