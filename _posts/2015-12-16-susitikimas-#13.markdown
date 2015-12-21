@@ -7,7 +7,7 @@ event_url: https://www.eventbrite.com/e/kaunas-js-meetup-13-tickets-19854043980
 categories: jekyll update
 ---
 ## Pranešėjai:
-  * Gediminas Mikelėnas [![LinkedIn](img/icon-linkedin.png)](https://lt.linkedin.com/in/gediminas-mikel%C4%97nas-70b8b343) - Don’t flux.js yourself in the foot
+  * Gediminas Mikelėnas [![LinkedIn](img/icon-linkedin.png)](https://lt.linkedin.com/in/gediminas-mikel%C4%97nas-70b8b343) - [Don’t flux.js yourself in the foot](https://docs.google.com/presentation/d/1oY5REn00OCcPXDsbHT10I20Pqpu20V9JxnX65aHwvvk/edit?usp=sharing)
  
   Afterparty TBA
 
