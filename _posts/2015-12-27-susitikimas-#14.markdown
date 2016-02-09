@@ -7,7 +7,7 @@ event_url: https://www.eventbrite.com/e/kaunas-js-meetup-14-tickets-20100108967
 categories: jekyll update
 ---
 ## Pranešėjai:
-  * Kiril Abaškin [![LinkedIn](img/icon-linkedin.png)](https://lt.linkedin.com/in/kiril-aba%C5%A1kin-34842137) - Styleguide Driven Development
+  * Kiril Abaškin [![LinkedIn](img/icon-linkedin.png)](https://lt.linkedin.com/in/kiril-aba%C5%A1kin-34842137) - [Styleguide Driven Development](http://reskir.github.io/sgdd/?full#intro)
  
   Afterparty TBA
 
