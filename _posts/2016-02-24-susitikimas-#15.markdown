@@ -7,7 +7,7 @@ event_url: https://www.eventbrite.com/e/kaunas-js-meetup-15-tickets-21346327440
 categories: jekyll update
 ---
 ## Pranešėjai:
-  * Irmantas Zenkus [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/irmantas-zenkus-30050938) - Use ES6 now
+  * Irmantas Zenkus [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/irmantas-zenkus-30050938) - [Use ES6 now](https://docs.google.com/presentation/d/11wos0AVgK2Ir9ILAZiY4h5cIWQYhsLIBYJoS7evgRzk/pub?start=false&loop=false&delayms=3000&slide=id.p)
  
   Afterparty TBA
 
