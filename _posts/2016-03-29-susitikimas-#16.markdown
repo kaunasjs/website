@@ -8,6 +8,7 @@ categories: jekyll update
 ---
 ## Pranešėjai:
   * Martynas Bajoraitis [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/actionscriptdeveloper) - Discovering Webstorm great capabilities
+  * Juozas Valenčius [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/juozasva) - Node.js App Deployment on CentOS
  
   Afterparty TBA
 
