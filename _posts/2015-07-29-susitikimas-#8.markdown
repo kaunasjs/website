@@ -15,5 +15,5 @@ categories: jekyll update
 
 ## Rėmėjai:
 
-  * [![Adform](img/adform-logo.jpg)](http://www.adform.com)
+  * [![Adform](img/adform-logo.png)](http://www.adform.com)
   * [![JetBrains](img/jetbrains-logo.png)](https://www.jetbrains.com/)

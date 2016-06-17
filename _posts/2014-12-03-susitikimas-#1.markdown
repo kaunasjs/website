@@ -11,4 +11,4 @@ categories: jekyll update
 
 ## Remėjai:
 
- * ![Adform](img/adform-logo.jpg)
+ * ![Adform](img/adform-logo.png)

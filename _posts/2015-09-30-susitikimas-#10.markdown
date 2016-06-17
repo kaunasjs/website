@@ -18,5 +18,5 @@ Registracija Eventbrite būtina.
 
 ## Rėmėjai:
 
-  * [![Adform](img/adform-logo.jpg)](http://www.adform.com)
+  * [![Adform](img/adform-logo.png)](http://www.adform.com)
   * [![WebStorm](img/webstorm-logo.png)](https://www.jetbrains.com/webstorm/)
