@@ -7,7 +7,7 @@ event_url: https://www.eventbrite.com/e/kaunas-js-meetup-19-tickets-26112348738
 categories: jekyll update
 ---
 ## Pranešėjai:
-  * Ovidijus Reipšlėger [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/ovidijus-reipšlėger-172b9094) - JS/CSS Animacijos
+  * Ovidijus Reipšlėger [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/ovidijus-reipšlėger-172b9094) - [JS/CSS Animacijos](http://slides.com/ovidijusr/js-css-animacijos/fullscreen)
  
   Afterparty TBA
 
