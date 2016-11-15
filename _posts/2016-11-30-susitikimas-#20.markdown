@@ -8,6 +8,7 @@ categories: jekyll update
 ---
 ## Pranešėjai:
   * Žygimantas Benetis [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/benetis) - Angular2 is cool. So is Typescript
+  * Vytautas Pranskūnas [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/vytautas-pransk%C5%ABnas-0513b78) - Hands on RxJs: Creating range slider (workshop)
  
   Afterparty TBA
 
