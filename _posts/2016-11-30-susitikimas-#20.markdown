@@ -2,7 +2,7 @@
 layout: post
 title:  "Susitikimas #20"
 date:   2016-11-30 18:30:00
-venue: TBA
+venue: Adform - Rotušės aikštė 17, LT-44279 Kaunas, Lietuva
 event_url: https://www.eventbrite.com/e/kaunas-js-meetup-20-tickets-29142837010
 categories: jekyll update
 ---
