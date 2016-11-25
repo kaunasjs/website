@@ -3,7 +3,7 @@ layout: post
 title:  "Susitikimas #20"
 date:   2016-11-30 18:30:00
 venue: TBA
-event_url: 
+event_url: https://www.eventbrite.com/e/kaunas-js-meetup-20-tickets-29142837010
 categories: jekyll update
 ---
 ## Pranešėjai:
