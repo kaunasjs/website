@@ -8,7 +8,7 @@ categories: jekyll update
 ---
 ## Pranešėjai:
   * Žygimantas Benetis [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/benetis) - Becoming one with the flexbox
-  * Pierre Derval [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/pierrederval) - 
+  * Pierre Derval [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/pierrederval) - Componentization with React
  
   Afterparty Adform
 
