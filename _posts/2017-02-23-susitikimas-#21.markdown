@@ -7,8 +7,8 @@ event_url: https://www.eventbrite.com/e/kaunas-js-meetup-21-tickets-31982456388
 categories: jekyll update
 ---
 ## Pranešėjai:
-  * Žygimantas Benetis [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/benetis) - Becoming one with the flexbox
-  * Pierre Derval [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/pierrederval) - Componentization with React
+  * Žygimantas Benetis [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/benetis) - [Becoming one with the flexbox](https://drive.google.com/open?id=0B97hFPbr4hj-aUZtY0dndmZ4a0k)
+  * Pierre Derval [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/pierrederval) - [Componentization with React](https://drive.google.com/open?id=0B97hFPbr4hj-UE5xY2RRenFTTFU)
  
   Afterparty Adform
 
