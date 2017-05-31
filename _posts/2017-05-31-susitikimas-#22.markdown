@@ -9,7 +9,7 @@ categories: jekyll update
 ## Pranešėjai:
   * Vytautas Pranskūnas [![LinkedIn](img/icon-linkedin.png)](https://www.linkedin.com/in/vytautas-pransk%C5%ABnas-0513b78/) - Angular 4? React? Whatever! State management that fits them both
   
-  Afterparty TBA
+  Afterparty Adform Leisure Zone
 
 ## Rėmėjai:
 
