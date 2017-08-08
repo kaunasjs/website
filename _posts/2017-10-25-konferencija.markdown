@@ -6,8 +6,8 @@ event_url: https://reactiveconf.com/
 categories: jekyll update
 ---
 ## 10% Nuolaida ReactiveConf:
-  * [![ReactiveConf](img/Reactive_CONF_logo.png)](https://reactiveconf.com/)
+  * [![ReactiveConf](img/reactconf kaunasjs.jpeg)](https://reactiveconf.com/)
 
 ## ReactiveConf:
 
-  * [![ReactiveConf](img/adform-logo.png)](https://reactiveconf.com/)
+  * [![ReactiveConf](img/Reactive_CONF_logo.png)](https://reactiveconf.com/)
